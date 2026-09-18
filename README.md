@@ -5,3 +5,5 @@ Features:
 . Check cellphone number format
 . Register and Login functionality
 Author: koketso-06-collab: https://github.com/koketso-06-collab/Loginproject1.git
+
+Commit 3: Added documentation for submission
