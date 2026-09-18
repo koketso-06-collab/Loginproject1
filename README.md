@@ -7,3 +7,6 @@ Features:
 Author: koketso-06-collab: https://github.com/koketso-06-collab/Loginproject1.git
 
 Commit 3: Added documentation for submission
+
+Commit 4: Code tested and all feature are working
+
