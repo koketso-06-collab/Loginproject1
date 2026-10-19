@@ -23,3 +23,5 @@ Commit 9: QuickChat functionality
 Commit 10: POE Part 2 completed and tested
 
 Commit 11: Ready for submission
+
+Commit 12: Final POE Part 2
