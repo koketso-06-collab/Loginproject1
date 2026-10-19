@@ -13,3 +13,5 @@ Commit 4: Code tested and all feature are working
 Commit 5: Presentation video link
 
 Commit 6: Final version ready submission
+
+Commit 7: This project is PROG5121 POE Part 2
