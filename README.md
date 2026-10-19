@@ -19,3 +19,5 @@ Commit 7: This project is PROG5121 POE Part 2
 Commit 8: Added Login validation
 
 Commit 9: QuickChat functionality
+
+Commit 10: POE Part 2 completed and tested
