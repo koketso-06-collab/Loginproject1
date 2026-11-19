@@ -1,0 +1,19 @@
+name: QuickChat Java tests
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+      - name: Set up JDK 17 and Maven cache
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: maven
+      - name: Compile and run Part 1, Part 2 and Part 3 JUnit tests
+        run: mvn --batch-mode --no-transfer-progress clean test

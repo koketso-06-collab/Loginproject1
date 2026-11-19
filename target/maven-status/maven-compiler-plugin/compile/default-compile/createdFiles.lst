@@ -1,3 +1,7 @@
 com\mycompany\loginproject1\Message.class
-com\mycompany\loginproject1\Login.class
+com\mycompany\loginproject1\MessageJsonStore.class
+com\mycompany\loginproject1\MessageArchive.class
 com\mycompany\loginproject1\QuickChat.class
+com\mycompany\loginproject1\QuickChat$InputEndedException.class
+com\mycompany\loginproject1\MessageJsonStore$Parser.class
+com\mycompany\loginproject1\Login.class
